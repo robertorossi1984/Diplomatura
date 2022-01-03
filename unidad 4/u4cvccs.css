@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    color: red;
+}
+h2{
+    background-color: seagreen;
+    color: tomato;
+}
+
+p{
+    font-size: 25px;
+    color: green;
+}
+
+.destacados{
+    color: blue;
+    font-style: italic;
+}
+
+#pasatiempos{
+    width: 300px;
+    background-color: chartreuse;
+    text-align: center;
+    padding: 40px;
+    border: 3px solid red;
+    padding-left: 50px;
+    margin-left: 300px;
+    border-top: dashed black;
+}
